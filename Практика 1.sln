@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практика 1", "Пр�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema2(2)", "Tema2(2)\Tema2(2).csproj", "{A93931B3-77FD-4661-98A6-D871C267F667}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMathLibrary", "MyMathLibrary\MyMathLibrary.csproj", "{995DD1F5-1236-4ADB-A3FD-141C137BD2E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A93931B3-77FD-4661-98A6-D871C267F667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A93931B3-77FD-4661-98A6-D871C267F667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A93931B3-77FD-4661-98A6-D871C267F667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995DD1F5-1236-4ADB-A3FD-141C137BD2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995DD1F5-1236-4ADB-A3FD-141C137BD2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995DD1F5-1236-4ADB-A3FD-141C137BD2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995DD1F5-1236-4ADB-A3FD-141C137BD2E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
