@@ -37,11 +37,11 @@ namespace Tema2_2_
             {
                 User user1 = new User
                 {
-                    Id = 1,
+                    Id = 301,
                     Username = "dany",
                     RealName = "Даниил Петухов",
                     Email = "Dany@gmail.ru",
-                    Age = 25,
+                    Age = 18,
                     RegistrationDate = DateTime.Now,
                     IsOnline = false
                 };
