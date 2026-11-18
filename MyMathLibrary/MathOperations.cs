@@ -4,7 +4,7 @@
     {
         public void PrintHello()
         {
-            Console.WriteLine("Привет из DLL библиотеки!");
+            Console.WriteLine("Привет из DLL библиотеки");
         }
 
         public void ShowMessage(string message)
