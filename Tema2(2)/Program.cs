@@ -19,7 +19,7 @@ namespace Tema2_2_
             public bool IsOnline { get; set; }
             public void PrintInfo()
             {
-                Console.WriteLine("--- Информация о пользователе ---");
+                Console.WriteLine("Информация о пользователе ");
                 Console.WriteLine($"ID: {Id}");
                 Console.WriteLine($"Никнейм: {Username}");
                 Console.WriteLine($"Настоящее имя: {RealName}");
