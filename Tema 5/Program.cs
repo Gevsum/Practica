@@ -10,8 +10,8 @@ namespace Tema_5
     {
         static void Main(string[] args)
         {
-            string s1 = "Яблоко";
-            string s2 = "яблоко";
+            string s1 = "Практика";
+            string s2 = "практика";
 
             Console.WriteLine($"== : {s1 == s2}");
             Console.WriteLine($"!= : {s1 != s2}");
@@ -20,8 +20,8 @@ namespace Tema_5
             Console.WriteLine($"Compare : {string.Compare(s2, s1)}");
             Console.WriteLine($"CompareOrdinal : {string.CompareOrdinal(s1, s2)}");
 
-            Console.WriteLine($"Contains : {s1.Contains("око")}");
-            Console.WriteLine($"IndexOf : {s1.IndexOf("око")}");
+            Console.WriteLine($"Contains : {s1.Contains("ика")}");
+            Console.WriteLine($"IndexOf : {s1.IndexOf("ика")}");
 
             Console.ReadKey();
         }
