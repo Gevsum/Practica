@@ -15,7 +15,7 @@ namespace Tema7._2
 
             if (int.TryParse(input, out int n))
             {
-                int result = CalculateDifference(n);
+                int result = Calcul(n);
                 Console.WriteLine($"Результат: {result}");
             }
             else
@@ -26,7 +26,7 @@ namespace Tema7._2
             Console.ReadKey();
         }
 
-        static int CalculateDifference(int n)
+        static int Calcul(int n)
         {
             int difference = Math.Abs(n - 123);
 
